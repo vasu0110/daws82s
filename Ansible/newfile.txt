@@ -1,2 +1,3 @@
 test file created to test git commit
 hello
+hello 2
