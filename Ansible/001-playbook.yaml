@@ -1,0 +1,7 @@
+- name: ping #name of the playbook file
+  hosts: web #list of hosts in the inventory file
+
+  tasks: #list of tasks to be executed
+  - name: ping the server
+
+
